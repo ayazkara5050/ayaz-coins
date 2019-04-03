@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta http-equiv="refresh" content="10;URL=index.php.php">
 <title>Coins</title>
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js">
 </script>
