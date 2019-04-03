@@ -62,7 +62,7 @@ function notifyMe() {
             body: "Recent Vol <?php echo $b[5];?>%",
         });
         notification.onclick = function () {
-            window.open("http://localhost/binance/");
+            window.open("https://ayaz-coins.herokuapp.com/index.php");
         }
     }
 </script>
